@@ -2,10 +2,10 @@
 This code converts your decimal IPv4 address to its respective binary,Ocatal,HexaDecimal and Decimal
 
 Usage:
-  python ipconversion.py <ipaddr1> <ipaddr2> ... 
-  
+  python ipconversion.py {ipaddr1} {ipaddr2} ... 
+
 Example:
-  python ipconversion.py 172.16.17.28 192.168.0.1
+  python ipconversion.py 172.16.17.28 192.168.0.1 
   Converting IP 172.16.17.28 
 
   Binary:   10101100.00010000.00010001.00011100
